@@ -1,1 +1,1 @@
-FineGrainedSentimentStockTweets
+# NLP project - Sentiment Analysis
